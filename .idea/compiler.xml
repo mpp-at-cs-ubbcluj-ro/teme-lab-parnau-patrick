@@ -2,7 +2,12 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="Laborator1" target="23" />
+      <module name="lab2_in_class" target="23" />
+      <module name="lab2_in_class.main" target="23" />
+      <module name="lab2_in_class.test" target="23" />
+      <module name="Laborator1.lab2_in_class" target="23" />
+      <module name="Laborator1.lab2_in_class.main" target="23" />
+      <module name="Laborator1.lab2_in_class.test" target="23" />
       <module name="Laborator1.main" target="23" />
       <module name="Laborator1.test" target="23" />
     </bytecodeTargetLevel>
